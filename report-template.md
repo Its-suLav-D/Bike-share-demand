@@ -44,7 +44,7 @@ I think I would spend more time on Feature Engineering and Hyperparameter tuning
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![ModelScore](./model_test_score_r.png)
+![ModelScore](./model_test_score_r2.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
